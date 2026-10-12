@@ -1,0 +1,7 @@
+-- Demo users are inserted on first application start (AppInitListener)
+-- so passwords can be hashed with BCrypt.
+--
+-- Default logins after first start:
+--   admin     / admin123     (ADMIN)
+--   agent1    / agent123     (AGENT)
+--   customer1 / cust123      (CUSTOMER)

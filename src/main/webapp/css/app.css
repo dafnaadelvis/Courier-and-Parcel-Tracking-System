@@ -1,0 +1,21 @@
+body {
+    background: #f4f6f8;
+}
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+.card {
+    border: 0;
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+}
+.hero {
+    background: linear-gradient(135deg, #0d6efd, #0a58ca);
+    color: #fff;
+    border-radius: 1rem;
+}
+.status-badge {
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+}
